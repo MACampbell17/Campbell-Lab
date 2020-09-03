@@ -1,5 +1,9 @@
 ## Research
 
+The life cycle of perennial plants involves transitions into and out of varous states of dormancy. My lab is interested in the genetic response of perennial plants as they transition between different states of dormancy. Potato has been a model system and recently the lab has started investigations into dormancy in grapes.
+
+
+
 You can use the [editor on GitHub](https://github.com/MACampbell17/Campbell-Lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
